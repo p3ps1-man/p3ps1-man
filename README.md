@@ -1,7 +1,7 @@
 ## Hi, My name is Ignjat Jokanovic
 
 <br/>
-<a href="https://github.com/IgnjatJokanovic"><img src="https://img.shields.io/github/followers/IgnjatJokanovic.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://github.com/p3ps1-man"><img src="https://img.shields.io/github/followers/p3ps1-man.svg?label=GitHub&style=social" alt="GitHub"></a>
 <br/>
 
 <p>I'm backend software engineer from Serbia</p>
@@ -57,6 +57,6 @@
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IgnjatJokanovic&count_private=true&show_icons=true&theme=dark&line_height=27)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=p3ps1-man&count_private=true&show_icons=true&theme=dark&line_height=27)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnjatJokanovic&hide=css,java,html&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p3ps1-man&hide=css,java,html&theme=dark)
