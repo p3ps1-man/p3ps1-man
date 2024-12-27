@@ -6,7 +6,7 @@
 
 <p>I'm backend software engineer from Serbia</p>
 
-- 🏢 I'm currently working as a Software Engineer at [NanoInteractive](https://github.com/nano-interactive)
+//- 🏢 I'm currently working as a Software Engineer at [NanoInteractive](https://github.com/nano-interactive)
 
 <br>
 
