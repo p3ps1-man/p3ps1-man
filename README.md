@@ -4,7 +4,7 @@
 <a href="https://github.com/p3ps1-man"><img src="https://img.shields.io/github/followers/p3ps1-man.svg?label=GitHub&style=social" alt="GitHub"></a>
 <br/>
 
-<p>I'm fullstack software engineer from Serbia. Click <a href="https://github.com/p3ps1-man/resume/blob/main/CV.pdf">HERE</a> to download my resume.</p>
+<p>I'm fullstack software engineer from Serbia. Click <a href="https://github.com/p3ps1-man/resume/blob/main/CV.pdf" download>HERE</a> to download my resume.</p>
 
 <!--- - 🏢 I'm currently working as a Software Engineer at [NanoInteractive](https://github.com/nano-interactive) -->
 
